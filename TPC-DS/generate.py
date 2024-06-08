@@ -3,7 +3,7 @@ import os
 
 import duckdb
 
-SF = 1
+SF = 100
 
 cur_dir = os.path.dirname(os.path.abspath(__file__))
 
